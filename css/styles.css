@@ -23,6 +23,36 @@ body {
   color: #000000;
 }
 
+.social-links {
+  color: #212121;
+}
+
+.social-links .link:focus {
+  color: #2196f3;
+}
+
+.social-links .link:hover {
+  color: #2196f3;
+}
+
+.contact-links {
+  color: #757575;
+}
+.contact-links .links:focus {
+  color: #2196f3;
+}
+
+.contact-links .links:hover {
+  color: #2196f3;
+}
+
+.button {
+  background-color: #f5f4fa;
+}
+
+.button:hover {
+  background-color: #2196f3;
+}
 .pointer {
   cursor: pointer;
 }
